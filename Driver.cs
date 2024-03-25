@@ -3,6 +3,7 @@
     internal class Driver
     {
         //Testing grounds
+        // To run the simulation, read memory references from a file, and output the results of the simulation to the console or a file.
         static void Main(string[] args)
         {
             var config = new MemoryConfig();
